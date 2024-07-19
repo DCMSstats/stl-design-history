@@ -14,7 +14,7 @@ module.exports = function (eleventyConfig) {
     },
     url:
       process.env.GITHUB_ACTIONS &&
-      "https://x-govuk.github.io/govuk-design-history-template/",
+      "https://dcmsstats.github.io/stl-design-history/",
   });
 
   // Passthrough
