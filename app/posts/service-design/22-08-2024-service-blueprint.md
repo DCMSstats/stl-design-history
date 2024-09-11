@@ -1,6 +1,6 @@
 ---
 title: Service Blueprint
-description: What is service design and why we held a workshop
+description: What is a service blueprint and how ours has evolved.
 date: 2024-09-06
 tags:
   - service blueprint
