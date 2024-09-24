@@ -1,28 +1,20 @@
 # Design history for the Short Term Lets Service
 
-A place for the Short Term Lets team to document service designs and decisions. We have hosted the site using Github Pages.
+A place for the Short Term Lets team to document service designs and decisions. This project has been set up using the x-govuk/govuk-design-history-template which is maintained by a small number of volunteers working across government. We have hosted the site using Github Pages.
 To view this site use this link [https://dcmsstats.github.io/stl-design-history/](https://dcmsstats.github.io/stl-design-history/)
 
-## Purpose of this project
+## To run locally
 
-This repository is based on the original x-govuk design template which makes it easy to:
+In the terminal:
 
-- screenshot your designs
-- create pages of screenshots to document designs
-- document designs using the [GOV.UK Design System](https://design-system.service.gov.uk/)
-- print pages of designs
-- make designs shareable and linkable
+- Clone the repo `git clone git@github.com:DCMSstats/stl-design-history.git`
+- Install all the dependencies by running `npm install`
+- Run `npm start`
 
-## Installation and getting started
+## Support & Technical notes
 
-Read this guide on how to [set up a design history](https://x-govuk.github.io/govuk-design-history/get-started/).
+For guidance on the design history [see this website](https://x-govuk.github.io/govuk-design-history/get-started/).
 
-## Support
-
-This project has been set up using the x-govuk/govuk-design-history-template which is maintained by a small number of volunteers working across government.
-
-If there are questions about using a design history for our service, which can't be resolved by our team, we can report bugs or send feedback via, [submit a new issue](https://github.com/x-govuk/govuk-design-history-template/issues/new).
-
-## Technical notes
+We can report bugs or send feedback via, [submit a new issue](https://github.com/x-govuk/govuk-design-history-template/issues/new).
 
 The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.dev) static site generator with the [GOV.UK Eleventy Plugin](https://x-govuk.github.io/govuk-eleventy-plugin/).
