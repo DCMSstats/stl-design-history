@@ -1,7 +1,7 @@
 ---
 title: DCMS Short-term Lets Discovery and Alpha - Introduction
 description: An introduction to the short-term lets project, including our aims and how we work.
-date: 2024-09-24
+date: 2024-08-21
 tags:
   - discovery
 ---
