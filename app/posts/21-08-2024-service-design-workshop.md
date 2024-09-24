@@ -1,7 +1,7 @@
 ---
 title: Service Design Workshop
 description: What is service design and why we held a workshop
-date: 2024-08-21
+date: 2024-08-24
 tags:
   - service design
 ---
