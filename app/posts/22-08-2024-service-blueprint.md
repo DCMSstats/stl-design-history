@@ -1,7 +1,7 @@
 ---
 title: Service Blueprint
 description: What is a service blueprint and how ours has evolved.
-date: 2024-09-24
+date: 2024-09-23
 tags:
   - service blueprint
 ---
