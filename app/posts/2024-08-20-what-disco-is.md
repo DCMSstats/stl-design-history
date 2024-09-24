@@ -1,6 +1,6 @@
 ---
-title: DCMS Short-term Lets Discovery and Alpha - introduction
-description: An inroduction to the short-term lets project, including our aims and how we work.
+title: DCMS Short-term Lets Discovery and Alpha - Introduction
+description: An introduction to the short-term lets project, including our aims and how we work.
 date: 2024-09-24
 tags:
   - discovery
