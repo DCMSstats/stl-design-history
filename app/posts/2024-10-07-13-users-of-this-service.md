@@ -164,8 +164,8 @@ The registration scheme is a chance for me to ensure that I am as good a host as
 
 #### The Prospective Operator
 
-| ![Photo of a man dressed casually and smiling sat indoors](/2024-10-07-13-users-of-this-service/image3.jpg)| Alex (41) Property Owner / Prospective Short-term Lets Operator |
-|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| ![Photo of a man dressed casually and smiling sat indoors](/2024-10-07-13-users-of-this-service/image3.jpg) | Alex (41) Property Owner / Prospective Short-term Lets Operator |
+|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
 
 I have recently acquired and renovated a small property in a popular tourist town in England. My job requires me to travel a lot, so my property is often unoccupied. I like the idea of letting it out on a short-term basis, to ensure that it is occupied when I’m not there, and to generate additional income to help with my mortgage payments.
 
@@ -197,8 +197,8 @@ My research gave me some understanding of the local STL market, but I'm keen to 
 
 #### The Multiple Short-Term Let Operator
 
-| ![Photo of a smiling man wearing a suit and with glasses, stood in front of a window ](/2024-10-07-13-users-of-this-service/image2.png)| Imran (66) Property Owner / Multiple Short-term Lets  Operator |
-|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| ![Photo of a smiling man wearing a suit and with glasses, stood in front of a window ](/2024-10-07-13-users-of-this-service/image2.png) | Imran (66) Property Owner / Multiple Short-term Lets  Operator |
+|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
 
 I have built up a portfolio of short-term let properties. Having done this for over 20 years I see myself as something of an expert in the sector. Managing my lets comes as second nature to me now.  I'm open to changes but the thought of more admin does not sit well with me.
 
@@ -221,8 +221,8 @@ I see a registration scheme as necessary and as a chance for all my properties t
 I work hard to build a brand for my STLs, and I need to make sure that credibility is kept. Registering is just another way that I can show this. I feel strongly that those who don't do things right shouldn't be allowed to do it at all.
 
 #### The Anxious Operator
-| ![Photo of a smiling woman in a wheelchair in front of a desk at home](/2024-10-07-13-users-of-this-service/image7.jpg) | Anna (35) Property Owner / Anxious Short-term Lets operator  |
-|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| ![Photo of a smiling woman in a wheelchair in front of a desk at home](/2024-10-07-13-users-of-this-service/image7.jpg) | Anna (35) Property Owner / Anxious Short-term Lets operator |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 
 I own a second property which I use as a holiday home for me and my family. I don’t like the idea of the property being empty when we’re not there, so I let it out as short-term accommodation. This also helps me to generate additional income.
 
@@ -251,8 +251,8 @@ I'm not super confident in the sector and I know I have gaps in knowledge, so I 
 I like to handle some of the bookings and guest management so I'd be up for anything that helps me STL stand out. I'd see it as an opportunity if there is something that gets me more guests.
 
 #### The Niche Operator
-| ![Photo of a woman with colourful hair sat outdoors](/2024-10-07-13-users-of-this-service/image1.png)| Natalie (46) Property Owner / Niche Short-term Lets Operator  |
-|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| ![Photo of a woman with colourful hair sat outdoors](/2024-10-07-13-users-of-this-service/image1.png) | Natalie (46) Property Owner / Niche Short-term Lets Operator |
+|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 
 I own several shepherd  huts close to a National Park. This was something that started as a hobby, but now is a full time business. I take care of all the hosting duties and love the challenge of doing something a bit different.
 
@@ -293,7 +293,7 @@ To help test some of our riskiest assumptions that related to management compani
 #### The Supportive Management Company
 
 | Supportive Short-term Lets  Management Company |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-----------------------------------------------|
 
 We are predominantly a booking and marketing agency. We keep on top of what is required of a short-term let(s)  owner and keep them up-to-date, but we don't have the capacity to implement necessary changes or run day-to-day logistics on a client's behalf.
 
@@ -324,7 +324,7 @@ We will collect important regulatory documentation from our clients in order to 
 #### The Full Service Management Company
 
 | Full service Short-term Lets  Management Company |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------------------------------------------|
 
 We offer a full service to support our clients and they have varying needs. We complete all safety checks and services for clients on their behalf.
 
