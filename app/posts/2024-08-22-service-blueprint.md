@@ -24,7 +24,7 @@ It builds on a user journey map (which visualises a user's experience when using
 
 Throughout this Alpha phase we have been iterating on the service blueprint during collaborative workshops, as well as weekly blueprint updates with members of the team, to facilitate ongoing discussions and inform decision-making.
 
-![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXcRSTSd2sMEkT35vX3exXDoua892FX0g0RjD3JbSCcHARJjZNrBFz5eqaYHMBFXL1YRyBgYwHBqz6btXrn2L3cNX0TB4BYEatx4q4KkPIIQCYLrm6MtYwxNpaAUWuAhAc4Pvz5OdZbTCfDnXRsi-Y6ugvE?key=spSV4nVFvSMPqpBgLhrFmw "DCMS Team working on the service blueprint at the service blueprinting in-person session in London")
+![DCMS Team working on the service blueprint at the service blueprinting in-person session in London](/2024-08-22-service-blueprint/image3.jpg)
 
 ### Initial draft
 
@@ -34,7 +34,7 @@ This draft was divided into three main phases: pre-registration, registration, a
 
 Each phase was further broken down into subphases. We included user actions, online/offline interactions, and potential processes for various stakeholders.
 
-![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXc5DMNxIN0IQ6eSoCXT6m-m-IkBti2goImr38OUDy1m_N1JBJ2mt2kYVVZNUBrui28hF1VRQRUWTIPeFe5NSdUc3OklvKUnUr5wmyyCpdwL5z3erOafunAz66WnYfdFRx5pOG9iLLw_IEDuntpChSeqJGs?key=spSV4nVFvSMPqpBgLhrFmw)
+![](/2024-08-22-service-blueprint/image5.png)
 
 ### Version 1
 
@@ -59,7 +59,7 @@ Throughout Sprint 2, we continued refining the service blueprint by:
 - Capturing questions and actions coming out of the first workshop, and assigning these to team members
 - Incorporating new insights from stakeholder interviews, including booking platforms, Visit England, the Scottish Government, and other government departments (OGDs). These insights covered areas such as awareness-raising, data usage, and potential challenges with compliance and registration validation.
 
-![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXf1uJ_3Qu9uMzOSKglkdk5BJTUjSxJX7iuDZ4VfqLtCcNobvYJhb40jzWwPahiz3mFsc3yE5Etc_RywJf0evV74KxG5PIACIxbAAzgqXpxXJHmS9A41EUmVit2n-Wm6J7EUyB-menr6rbpkuGbnJMOfJK31?key=spSV4nVFvSMPqpBgLhrFmw)
+![](/2024-08-22-service-blueprint/image1.png)
 
 During our 2nd Blueprinting Workshop, we reviewed Version 2 of the blueprint, concentrating mainly on the 'Registration' phase:
 
@@ -77,7 +77,7 @@ This shows at a very high level what the main user actions are across the servic
 
 As part of this overview of the service, we have kept the service owner and admin deliberately separate from the rest of the actors, in order to show the additional actions that whoever administers this scheme will need to be responsible for.
 
-![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXcEtlL647XlcB0h9jdvMBBIolHWvB5cjZQJmA-jB3DxYNvDBipwFAWf_mafYsSywhBHUDZf4iI5iMrlTu5sgvrPI_c2N6V8Il7rdIkcJjuRY9cnjJPik1ee4rcRM_crVoTCm6Fd9h3mZjYCI_zw2LRuTCVY?key=spSV4nVFvSMPqpBgLhrFmw)
+![](/2024-08-22-service-blueprint/image2.png)
 
 ### Version 4
 
@@ -99,4 +99,4 @@ We also added insights from management companies, particularly on their involvem
 
 This latest version also includes additional considerations for subsequent rollouts, including plans for the beta phase.
 
-[![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXcncJdxxzEI7koyOEqIn7rkzDPZkhSSTHsnwvYfwjIZRack4eMdipnd3UGqGot-6d0TSLmmeHmX-Xq7qRV-ZbRK1pbe_OXd8aUH1Xlrf5_-08r0V8nPx0KRn47Ul53TV4cobbt-s7w4ApjCfO_IjGGAHhA?key=spSV4nVFvSMPqpBgLhrFmw)](https://lucid.app/lucidspark/8266d46f-db55-4cc7-9565-5fc2c4833384/view)
+[![](/2024-08-22-service-blueprint/image4.png)](https://lucid.app/lucidspark/8266d46f-db55-4cc7-9565-5fc2c4833384/view)
