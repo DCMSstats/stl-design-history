@@ -4,7 +4,7 @@ description: How we identified and prioritised assumptions
 date: 2024-10-07
 ---
 
-As mentioned in the [Introduction section](#), during the initial Discovery period, we identified assumptions around the scheme, and prioritised these into our riskiest assumptions to focus our exploration and testing during the Alpha phase.
+As mentioned in the [Introduction section](/1b-introduction), during the initial Discovery period, we identified assumptions around the scheme, and prioritised these into our riskiest assumptions to focus our exploration and testing during the Alpha phase.
 
 We did this by:
 
