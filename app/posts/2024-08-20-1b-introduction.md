@@ -42,10 +42,6 @@ We have been working using agile methodologies, including Scrum and Kanban metho
 
 We have been working as a strong blended team, with a mixture of policy and digital leads and have encouraged continuous learning and feedback throughout. This has been demonstrated through our use of retrospectives, managing actions and being able to reprioritise work based on team capacity.
 
-See our delivery timeline [here](https://lucid.app/lucidspark/a80f2c29-d14c-4828-832f-943f2fe7ca55/edit?invitationId=inv_0f377477-1587-49d4-8433-d9e81fcc65d0&page=0_0#)
-
-![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXfSjD410y2InPWgcd30e5m-VYTnfELyC03HdKuen4XKNa8pPT4OFZclR1xVqsCq2h4NecJQpPDYy8vJBlvB7Brl3M5dYuruLHbdsisy3fRTd3XVvqLFmQGYv7G39Y6-jgTVUARrnT6qk9icwXyuzXI6g4Q?key=spSV4nVFvSMPqpBgLhrFmw)
-
 ## Our assumptions
 
 Following an initial two-week Discovery period, we identified assumptions around the scheme, and prioritised these into our 25 riskiest assumptions to focus our exploration and testing during the Alpha phase.
@@ -53,11 +49,18 @@ Following an initial two-week Discovery period, we identified assumptions around
 We grouped these into the following themes:
 
 - Service ownership and operation
-- STL Operators and Management Companies
+- Short-term let Operators and Management Companies
 - Booking platforms
 - Local Authorities
 - Technical exploration
 - Compliance
 - Impact of the Service
 
-Further details on our assumptions can be found in our Assumptions section.
+Further details on our assumptions can be found in our [Assumptions section](/15-assumptions-for-alpha).
+
+## Our approach
+
+See our delivery timeline [here](https://lucid.app/lucidspark/a80f2c29-d14c-4828-832f-943f2fe7ca55/edit?invitationId=inv_0f377477-1587-49d4-8433-d9e81fcc65d0&page=0_0#)
+
+![Screenshot of delivery plan with dates across the top row, then 8 columns titled (Inception, Discovery, Alpha sprint 1, Alpha sprint 2, Alpha sprint 3, Alpha sprint 4, Alpha sprint 5 and Alpha sprint 5) and under this the tasks that took place across those sprints.](/2024-08-20-1b-introduction/image1.png)
+
