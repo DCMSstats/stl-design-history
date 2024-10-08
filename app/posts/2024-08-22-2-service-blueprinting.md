@@ -1,5 +1,5 @@
 ---
-title: Service Blueprint
+title: Service Blueprinting
 description: What is a service blueprint and how ours has evolved.
 date: 2024-08-23
 tags:
@@ -24,7 +24,7 @@ It builds on a user journey map (which visualises a user's experience when using
 
 Throughout this Alpha phase we have been iterating on the service blueprint during collaborative workshops, as well as weekly blueprint updates with members of the team, to facilitate ongoing discussions and inform decision-making.
 
-![DCMS Team working on the service blueprint at the service blueprinting in-person session in London](/2024-08-22-service-blueprint/image3.jpg)
+![DCMS Team working on the service blueprint at the service blueprinting in-person session in London](/2024-08-22-2-service-blueprinting/image3.jpg)
 
 ### Initial draft
 
@@ -34,7 +34,7 @@ This draft was divided into three main phases: pre-registration, registration, a
 
 Each phase was further broken down into subphases. We included user actions, online/offline interactions, and potential processes for various stakeholders.
 
-![](/2024-08-22-service-blueprint/image5.png)
+![](/2024-08-22-2-service-blueprinting/image5.png)
 
 ### Version 1
 
@@ -59,7 +59,7 @@ Throughout Sprint 2, we continued refining the service blueprint by:
 - Capturing questions and actions coming out of the first workshop, and assigning these to team members
 - Incorporating new insights from stakeholder interviews, including booking platforms, Visit England, the Scottish Government, and other government departments (OGDs). These insights covered areas such as awareness-raising, data usage, and potential challenges with compliance and registration validation.
 
-![](/2024-08-22-service-blueprint/image1.png)
+![](/2024-08-22-2-service-blueprinting/image1.png)
 
 During our 2nd Blueprinting Workshop, we reviewed Version 2 of the blueprint, concentrating mainly on the 'Registration' phase:
 
@@ -77,7 +77,7 @@ This shows at a very high level what the main user actions are across the servic
 
 As part of this overview of the service, we have kept the service owner and admin deliberately separate from the rest of the actors, in order to show the additional actions that whoever administers this scheme will need to be responsible for.
 
-![](/2024-08-22-service-blueprint/image2.png)
+![](/2024-08-22-2-service-blueprinting/image2.png)
 
 ### Version 4
 
@@ -99,4 +99,4 @@ We also added insights from management companies, particularly on their involvem
 
 This latest version also includes additional considerations for subsequent rollouts, including plans for the beta phase.
 
-[![](/2024-08-22-service-blueprint/image4.png)](https://lucid.app/lucidspark/8266d46f-db55-4cc7-9565-5fc2c4833384/view)
+[![](/2024-08-22-2-service-blueprinting/image4.png)](https://lucid.app/lucidspark/8266d46f-db55-4cc7-9565-5fc2c4833384/view)
