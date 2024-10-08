@@ -128,28 +128,157 @@ These  definitions have helped us frame our thinking during Alpha, especially wh
 
 #### The Experienced Operator
 
-| ![Photo of a smiling couple stood in front of a house](/2024-10-07-13-users-of-this-service/image6.jpg) Sarah (57) & Victor (61) Property Owner / Experienced Short-term Lets operator  We have been operating as hosts of a short-term let property in a popular English town for over 5 years. We’re both self-employed and we do this in order to generate income to make additional contributions to our pension pot.  We take pride in operating a successful short-term let business and we want our guests to enjoy their stay, so that they return and tell others about us. | Needs and motivations I need to be able to advertise my property in different ways \- repeat business, their own website and socials, and different booking platforms \- both national and niche  I care about our reputation, and the reputation of the short-term let(s). I also care about the reputation of the sector, and dislike people who give it a bad name.  I am happy to comply with regulations and see it as a positive step to rooting out bad apples. I need to show I am one of the good hosts.  I am proud to be responsible hosts and like to think we have a good knowledge of the different health and safety elements of running and operating a STL. I'm a diligent record keeper and I feel confident we would have anything required to comply with a registration scheme. However, we might need the time to bring all those records together to submit into any sort of application.  I have an awareness of different organisations within the sector, and trade bodies etc. I'm more likely to be a member of such bodies and associations. I'd likely respond better to something that is affiliated with a trade body. | Challenges and worries We have some nagging doubts about the true intention of such a scheme. Is it actually for monitoring or maybe for tax? I'd like any registration scheme to be a collaboration with operators. I don't really want to feel like I am being bullied or threatened into complying. It feels like we're beaten with enough sticks already from the media etc. Opportunities A registration scheme could be a way for our business to benefit. Could there be a commercial upside to us registering?   There are some areas that are less I am less certain of, such as Fire Furniture Safety regulations. However, we will always be trying to adhere to these regs. The registration scheme is a chance for me to ensure that I am as good a host as I can be.  I would definitely want to continue trading in a sector that is more regulated. Having to register is not a drawback for us.   |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :---- | :---- |
+| ![Photo of a smiling couple stood in front of a house](/2024-10-07-13-users-of-this-service/image6.jpg) | Sarah (57) & Victor (61) Property Owner / Experienced Short-term Lets operator |
+|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+
+We have been operating as hosts of a short-term let property in a popular English town for over 5 years. We’re both self-employed and we do this in order to generate income to make additional contributions to our pension pot.
+
+We take pride in operating a successful short-term let business and we want our guests to enjoy their stay, so that they return and tell others about us.
+
+##### Needs and motivations
+I need to be able to advertise my property in different ways \- repeat business, their own website and socials, and different booking platforms \- both national and niche
+
+I care about our reputation, and the reputation of the short-term let(s). I also care about the reputation of the sector, and dislike people who give it a bad name.
+
+I am happy to comply with regulations and see it as a positive step to rooting out bad apples. I need to show I am one of the good hosts.
+
+I am proud to be responsible hosts and like to think we have a good knowledge of the different health and safety elements of running and operating a STL.
+
+I'm a diligent record keeper and I feel confident we would have anything required to comply with a registration scheme. However, we might need the time to bring all those records together to submit into any sort of application.
+
+I have an awareness of different organisations within the sector, and trade bodies etc. I'm more likely to be a member of such bodies and associations. I'd likely respond better to something that is affiliated with a trade body.
+
+#####  Challenges and worries
+
+We have some nagging doubts about the true intention of such a scheme. Is it actually for monitoring or maybe for tax?
+
+I'd like any registration scheme to be a collaboration with operators. I don't really want to feel like I am being bullied or threatened into complying. It feels like we're beaten with enough sticks already from the media etc.
+
+##### Opportunities
+
+A registration scheme could be a way for our business to benefit. Could there be a commercial upside to us registering?
+
+There are some areas that are less I am less certain of, such as Fire Furniture Safety regulations. However, we will always be trying to adhere to these regs.
+
+The registration scheme is a chance for me to ensure that I am as good a host as I can be.  I would definitely want to continue trading in a sector that is more regulated. Having to register is not a drawback for us.
 
 #### The Prospective Operator
 
-| ![Photo of a man dressed casually and smiling sat indoors](/2024-10-07-13-users-of-this-service/image3.jpg) Alex (41) Property Owner / Prospective Short-term Lets Operator  I have recently acquired and renovated a small property in a popular tourist town in England. My job requires me to travel a lot, so my property is often unoccupied. I like the idea of letting it out on a short-term basis, to ensure that it is occupied when I’m not there, and to generate additional income to help with my mortgage payments. | Needs and motivations I'm happy to comply with regulations. I would have half expected there would be something already. I need to show that I am one of these good hosts. I've thought a lot about how this is going to work. I've Googled a lot of stuff online, including looking at competition and looked at related professionals websites (i.e. solicitors). I've also spoken to my friends who do something similar. I need to have all that information at the top of Google search.  I want to do the right thing from the off. If I am asked to provide certain information that is fine, I just need to understand what is being asked. When things get more technical, or beyond what I might already know as a home owner then I'll need clearer instructions on what to do.  | Challenges and worries As someone new to the sector getting a bad reputation might be something I can't recover from. I need to make sure I do everything I can to be reputable.  I've not got a clue how time consuming or costly some elements of running a STL will be. I'm hoping this will make me money so I need to know if parts of running a STL are going to cost me money or take up my time If I've got something that you need to see then I'd prefer to just take a photo of it and send it to you. I'm not as set up to scan something in.  I've got ADHD so when I am presented with a lot of information to read this becomes an issue for me.  Opportunities Could my new venture benefit from a registration scheme? Could there be an upside to me registering? Will this make it easier for me as a new entrant to the sector?  My research gave me some understanding of the local STL market but I'm keen to know more. The STL scheme could be a way I could learn more about how many STLs are operated by me.   |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :---- | :---- |
+| ![Photo of a man dressed casually and smiling sat indoors](/2024-10-07-13-users-of-this-service/image3.jpg)| Alex (41) Property Owner / Prospective Short-term Lets Operator |
+|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+
+I have recently acquired and renovated a small property in a popular tourist town in England. My job requires me to travel a lot, so my property is often unoccupied. I like the idea of letting it out on a short-term basis, to ensure that it is occupied when I’m not there, and to generate additional income to help with my mortgage payments.
+
+##### Needs and motivations
+I'm happy to comply with regulations. I would have half expected there would be something already. I need to show that I am one of these good hosts.
+
+I've thought a lot about how this is going to work. I've Googled a lot of stuff online, including looking at competition and looked at related professionals websites (i.e. solicitors). I've also spoken to my friends who do something similar. I need to have all that information at the top of Google search.
+
+I want to do the right thing from the off. If I am asked to provide certain information that is fine, I just need to understand what is being asked.
+
+When things get more technical, or beyond what I might already know as a home owner then I'll need clearer instructions on what to do.
+
+##### Challenges and worries
+
+As someone new to the sector getting a bad reputation might be something I can't recover from. I need to make sure I do everything I can to be reputable.
+
+I've not got a clue how time consuming or costly some elements of running a STL will be. I'm hoping this will make me money so I need to know if parts of running a STL are going to cost me money or take up my time
+
+If I've got something that you need to see then I'd prefer to just take a photo of it and send it to you. I'm not as set up to scan something in.
+
+I've got ADHD so when I am presented with a lot of information to read this becomes an issue for me.
+
+
+##### Opportunities
+
+Could my new venture benefit from a registration scheme? Could there be an upside to me registering? Will this make it easier for me as a new entrant to the sector?
+
+My research gave me some understanding of the local STL market, but I'm keen to know more. The STL scheme could be a way I could learn more about how many STLs are operated near me.
 
 #### The Multiple Short-Term Let Operator
 
-| ![Photo of a smiling man wearing a suit and with glasses, stood in front of a window ](/2024-10-07-13-users-of-this-service/image2.png) Imran (66) Property Owner / Multiple Short-term Lets  Operator I have built up a portfolio of short-term let properties. Having done this for over 20 years I see myself as something of an expert in the sector. Managing my lets comes as second nature to me now.  I'm open to changes but the thought of more admin does not sit well with me. | Needs and motivations It's paramount that all of my properties can be advertised in as many places as possible. Without this I will likely have no income.  I do this for a lot of properties so I'm comfortable with many different scenarios, regulations and health and safety checks. I don't think a lot would faze me. I'd just need enough time to bring it all together. I know I will need to register each of my properties, all I ask is that this is done in as painless a way as possible, and that it doesn't become a big administrative burden for me. | Challenges and worries I'd like any registration scheme to be a collaboration with operators. I don't really want to feel like I am being bullied or threatened into complying. It feels like we're beaten with enough sticks already from the media etc.  Opportunities I see a registration scheme as necessary and as a chance for all my properties to be a step up from any dodgy landlords and owners out there.  I work hard to build a brand for my STLs, and I need to make sure that credibility is kept. Registering is just another way that I can show this. I feel strongly that those who don't do things right shouldn't be allowed to do it at all.   |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :---- | :---- |
+| ![Photo of a smiling man wearing a suit and with glasses, stood in front of a window ](/2024-10-07-13-users-of-this-service/image2.png)| Imran (66) Property Owner / Multiple Short-term Lets  Operator |
+|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+
+I have built up a portfolio of short-term let properties. Having done this for over 20 years I see myself as something of an expert in the sector. Managing my lets comes as second nature to me now.  I'm open to changes but the thought of more admin does not sit well with me.
+
+##### Needs and motivations
+
+It's paramount that all of my properties can be advertised in as many places as possible. Without this I will likely have no income.
+
+I do this for a lot of properties so I'm comfortable with many different scenarios, regulations and health and safety checks. I don't think a lot would faze me. I'd just need enough time to bring it all together.
+
+I know I will need to register each of my properties, all I ask is that this is done in as painless a way as possible, and that it doesn't become a big administrative burden for me.
+
+##### Challenges and worries
+
+I'd like any registration scheme to be a collaboration with operators. I don't really want to feel like I am being bullied or threatened into complying. It feels like we're beaten with enough sticks already from the media etc.
+
+##### Opportunities
+
+I see a registration scheme as necessary and as a chance for all my properties to be a step up from any dodgy landlords and owners out there.
+
+I work hard to build a brand for my STLs, and I need to make sure that credibility is kept. Registering is just another way that I can show this. I feel strongly that those who don't do things right shouldn't be allowed to do it at all.
 
 #### The Anxious Operator
+| ![Photo of a smiling woman in a wheelchair in front of a desk at home](/2024-10-07-13-users-of-this-service/image7.jpg) | Anna (35) Property Owner / Anxious Short-term Lets operator  |
+|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 
-| ![Photo of a smiling woman in a wheelchair in front of a desk at home](/2024-10-07-13-users-of-this-service/image7.jpg) Anna (35) Property Owner / Anxious Short-term Lets operator  I own a second property which I use as a holiday home for me and my family. I don’t like the idea of the property being empty when we’re not there, so I let it out as short-term accommodation. This also helps me to generate additional income.  I do this via a management company, in exchange for a percentage of booking revenue. | Needs and motivations I take pride in my STL being well run. And for the parts that I handle I do that to the best of my ability, as I know that is something guests want. I need my agency’s help there to make sure that I am on top of the latest goings on.  I did some research when I started, basically relying on what a Google search told me. I think I have a foundational knowledge, but I am dependent on my agency to steer me in the right direction nowadays. If I have to register myself I'm going to need to have the information explained in a digestible format.  I'd like to think that if I was asked about health and safety and compliance I'd know the right answer. But my default is to contact the agency for confirmation. If the onus is on me then I need to understand what is being asked.  When things get more technical, or beyond what I might already know as a home owner then I'd be getting in touch with the agency straight away.  | Challenges and worries If I have to do it, that is completely fine. I'd likely need some help from my management company as I don't feel like I have the expertise to do it myself.  I know all this stuff exists as I pay someone to get it done. It would just be a case of me getting it and bringing it together. As someone who is not too experienced I'd probably worry that I'd send the wrong thing. I'm not super confident in the sector and I know I have gaps in knowledge, so I don't respond well to the thought of being 'threatened' into registering. Opportunities I like to handle some of the bookings and guest management so I'd be up for anything that helps me STL stand out. I'd see it as an opportunity if there is something that gets me more guests.    |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :---- | :---- |
+I own a second property which I use as a holiday home for me and my family. I don’t like the idea of the property being empty when we’re not there, so I let it out as short-term accommodation. This also helps me to generate additional income.
+
+I do this via a management company, in exchange for a percentage of booking revenue.
+
+##### Needs and motivations
+
+I take pride in my STL being well run. And for the parts that I handle I do that to the best of my ability, as I know that is something guests want. I need my agency’s help there to make sure that I am on top of the latest goings on.
+
+I did some research when I started, basically relying on what a Google search told me. I think I have a foundational knowledge, but I am dependent on my agency to steer me in the right direction nowadays. If I have to register myself I'm going to need to have the information explained in a digestible format.
+
+I'd like to think that if I was asked about health and safety and compliance I'd know the right answer. But my default is to contact the agency for confirmation. If the onus is on me then I need to understand what is being asked.
+
+When things get more technical, or beyond what I might already know as a home owner then I'd be getting in touch with the agency straight away.
+
+##### Challenges and worries
+
+If I have to do it, that is completely fine. I'd likely need some help from my management company as I don't feel like I have the expertise to do it myself.
+
+I know all this stuff exists as I pay someone to get it done. It would just be a case of me getting it and bringing it together. As someone who is not too experienced I'd probably worry that I'd send the wrong thing.
+
+I'm not super confident in the sector and I know I have gaps in knowledge, so I don't respond well to the thought of being 'threatened' into registering.
+
+##### Opportunities
+
+I like to handle some of the bookings and guest management so I'd be up for anything that helps me STL stand out. I'd see it as an opportunity if there is something that gets me more guests.
 
 #### The Niche Operator
+| ![Photo of a woman with colourful hair sat outdoors](/2024-10-07-13-users-of-this-service/image1.png)| Natalie (46) Property Owner / Niche Short-term Lets Operator  |
+|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 
-| ![Photo of a woman with colourful hair sat outdoors](/2024-10-07-13-users-of-this-service/image1.png) Natalie (46) Property Owner / Niche Short-term Lets Operator  I own several shepherd  huts close to a National Park. This was something that started as a hobby, but now is a full time business. I take care of all the hosting duties and love the challenge of doing something a bit different. | Needs and motivations I use lots of different platforms to advertise my STLs including some specialist ones, I need to be able to continue to do so to drive guests to my STL. If you want me to provide some of this information you're going to need to tell me how to do that. As my circumstances don't fit into this typical scenario.  I want to register. I just need to know how any registration scheme applies to my specific circumstances.  I have dyslexia so I need any content to be presented in a digestible format. | Challenges and worries I don't think it's particularly fair that my STLs are treated the same as some big second home in Padstow or some penthouse suite in Knightsbridge.  Because my set-up is not typical I know I won't be able to provide some info \- that worries me. Does it mean I can't register? And that I'll have to stop trading? Or will there be some sort of exceptions?  I have a good understanding of what is required to be a good host. But I worry about how my different STL might be able to adhere to what is being asked compared to the "normal" STLs on the market.  It feels like this might just be a way to monitor people or get more tax. I'm not making much of this so I don't think that's fair on someone like me.  Opportunities  This is a chance for me to be able to show that what I provide is super safe, and not have to answer those same questions from potential guests again and again.   |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :---- | :---- |
+I own several shepherd  huts close to a National Park. This was something that started as a hobby, but now is a full time business. I take care of all the hosting duties and love the challenge of doing something a bit different.
+
+##### Needs and motivations
+
+I use lots of different platforms to advertise my STLs including some specialist ones, I need to be able to continue to do so to drive guests to my STL.
+
+If you want me to provide some of this information you're going to need to tell me how to do that. As my circumstances don't fit into this typical scenario.
+
+I want to register. I just need to know how any registration scheme applies to my specific circumstances.
+
+I have dyslexia, so I need any content to be presented in a digestible format.
+
+##### Challenges and worries
+
+I don't think it's particularly fair that my STLs are treated the same as some big second home in Padstow or some penthouse suite in Knightsbridge.
+
+Because my set-up is not typical I know I won't be able to provide some info \- that worries me. Does it mean I can't register? And that I'll have to stop trading? Or will there be some sort of exceptions?
+
+I have a good understanding of what is required to be a good host. But I worry about how my different STL might be able to adhere to what is being asked compared to the "normal" STLs on the market.
+
+It feels like this might just be a way to monitor people or get more tax. I'm not making much of this so I don't think that's fair on someone like me.
+
+##### Opportunities
+
+This is a chance for me to be able to show that what I provide is super safe, and not have to answer those same questions from potential guests again and again.
 
 ### Management Companies
 
@@ -163,13 +292,67 @@ To help test some of our riskiest assumptions that related to management compani
 
 #### The Supportive Management Company
 
-| Supportive Short-term Lets  Management Company We are predominantly a booking and marketing agency. We keep on top of what is required of a short-term let(s)  owner and keep them up-to-date, but we don't have the capacity to implement necessary changes or run day-to-day logistics on a client's behalf.  | Needs and motivations We see it as our responsibility to keep clients updated on important relevant information with regard to what they are required to do to keep up with their obligations as short-term let(s)  owners and operators  We would much prefer to self-certify compliance. It is enough to remind people of their obligations, and reduces the admin burden on us, and likely also the government collecting the information. We are happy to support clients where they need it but see it as their responsibility to go through the process of registering for the scheme. It is important for our reputation, and that of our clients, that we are seen to be compliant with the relevant regulations  The registration process and what is asked for within seems reasonable and straightforward. We believe we, our clients and the sector as a whole will benefit from the scheme and there is no danger of either of us leaving as a result of registration becoming a requirement. | Challenges and worries We manage properties for a lot of owners, so we need a way to provide a lot of information quickly, otherwise registration of all properties may take weeks or months  What's required to comply is clear, though could be an extra burden to upload everything. We are concerned that some information requested we do not typically collect, which could make the process of registration longer Opportunities  We will collect important regulatory documentation from our clients in order to make sure they are compliant. We usually have more on file than the scheme asks for (PAT, CO, insurance) and believe the sector could benefit further if the scheme collected more evidence that it currently proposes to.  |
-| :---- | :---- | :---- |
+| Supportive Short-term Lets  Management Company |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+We are predominantly a booking and marketing agency. We keep on top of what is required of a short-term let(s)  owner and keep them up-to-date, but we don't have the capacity to implement necessary changes or run day-to-day logistics on a client's behalf.
+
+##### Needs and motivations
+
+We see it as our responsibility to keep clients updated on important relevant information with regard to what they are required to do to keep up with their obligations as short-term let(s)  owners and operators
+
+We would much prefer to self-certify compliance. It is enough to remind people of their obligations, and reduces the admin burden on us, and likely also the government collecting the information.
+
+We are happy to support clients where they need it but see it as their responsibility to go through the process of registering for the scheme.
+
+It is important for our reputation, and that of our clients, that we are seen to be compliant with the relevant regulations
+
+The registration process and what is asked for within seems reasonable and straightforward. We believe we, our clients and the sector as a whole will benefit from the scheme and there is no danger of either of us leaving as a result of registration becoming a requirement.
+
+##### Challenges and worries
+
+We manage properties for a lot of owners, so we need a way to provide a lot of information quickly, otherwise registration of all properties may take weeks or months
+
+What's required to comply is clear, though could be an extra burden to upload everything.
+
+We are concerned that some information requested we do not typically collect, which could make the process of registration longer
+
+##### Opportunities
+
+We will collect important regulatory documentation from our clients in order to make sure they are compliant. We usually have more on file than the scheme asks for (PAT, CO, insurance) and believe the sector could benefit further if the scheme collected more evidence that it currently proposes to.
 
 #### The Full Service Management Company
 
-| Full service Short-term Lets  Management Company We offer a full service to support our clients and they have varying needs. We complete all safety checks and services for clients on their behalf. | Needs and motivations We see it as our responsibility to keep clients updated on important relevant information with regard to what they are required to do to keep up with their obligations as short-term let(s) owners and operators Requiring upload of proof of compliance feels like the more reliable option, self-certification would be to easy to abuse for those so inclined. And we already have the necessary documents on file anyway, it wouldn't be too much of a burden to upload them. What's required to comply is clear, and will be straightforward enough. We request these documents anyway and keep them on file for our records, as well making sure they are kept up-to-date. There would be no issue finding and sharing them. The registration process and what is asked for within seems reasonable and straightforward. We believe we, our clients and the sector as a whole will benefit from the scheme and there is no danger of either of us leaving as a result of registration becoming a requirement. We offer a full management service and as such will endeavour to register all clients' properties on their behalf  It is important for our reputation, and that of our clients, that we are seen to be compliant with the relevant regulations  Where we support or complete a client's registration we need clarity on what information is required of us, and which party's information the form is requesting. | Challenges and worries We manage properties for a lot of owners, so we need a way to provide a lot of information quickly, otherwise registration of all properties may take weeks or months We are concerned that some information requested we do not typically collect, which could make the process of registration longer Opportunities  We will collect important regulatory documentation from our clients in order to make sure they are compliant. We usually have more on file than the scheme asks for (PAT, CO, insurance) and believe the sector could benefit further if the scheme collected more evidence that it currently proposes to. |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Full service Short-term Lets  Management Company |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+We offer a full service to support our clients and they have varying needs. We complete all safety checks and services for clients on their behalf.
+
+##### Needs and motivations
+
+We see it as our responsibility to keep clients updated on important relevant information with regard to what they are required to do to keep up with their obligations as short-term let(s) owners and operators
+
+Requiring upload of proof of compliance feels like the more reliable option, self-certification would be to easy to abuse for those so inclined. And we already have the necessary documents on file anyway, it wouldn't be too much of a burden to upload them.
+
+What's required to comply is clear, and will be straightforward enough. We request these documents anyway and keep them on file for our records, as well making sure they are kept up-to-date. There would be no issue finding and sharing them.
+
+The registration process and what is asked for within seems reasonable and straightforward. We believe we, our clients and the sector as a whole will benefit from the scheme and there is no danger of either of us leaving as a result of registration becoming a requirement.
+
+We offer a full management service and as such will endeavour to register all clients' properties on their behalf
+
+It is important for our reputation, and that of our clients, that we are seen to be compliant with the relevant regulations
+
+Where we support or complete a client's registration we need clarity on what information is required of us, and which party's information the form is requesting.
+
+##### Challenges and worries
+
+We manage properties for a lot of owners, so we need a way to provide a lot of information quickly, otherwise registration of all properties may take weeks or months
+
+We are concerned that some information requested we do not typically collect, which could make the process of registration longer
+
+##### Opportunities
+
+We will collect important regulatory documentation from our clients in order to make sure they are compliant. We usually have more on file than the scheme asks for (PAT, CO, insurance) and believe the sector could benefit further if the scheme collected more evidence that it currently proposes to.
 
 ## **Who are our ‘Impacted users’?**
 
