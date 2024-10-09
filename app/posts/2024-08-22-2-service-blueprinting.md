@@ -24,7 +24,7 @@ It builds on a user journey map (which visualises a user's experience when using
 
 Throughout this Alpha phase we have been iterating on the service blueprint during collaborative workshops, as well as weekly blueprint updates with members of the team, to facilitate ongoing discussions and inform decision-making.
 
-![DCMS Team working on the service blueprint at the service blueprinting in-person session in London](/2024-08-22-2-service-blueprinting/image3.jpg)
+![Photo of the team’s first collaborative service blueprinting workshop at Made Tech’s London offices. It shows 5 members of the team in a meeting room gathered around a large printout of a draft service blueprint stuck up on the wall. 1 team member is writing on a sticky note on the printout.](/2024-08-22-2-service-blueprinting/image3.jpg)
 
 ### Initial draft
 
@@ -34,7 +34,7 @@ This draft was divided into three main phases: pre-registration, registration, a
 
 Each phase was further broken down into subphases. We included user actions, online/offline interactions, and potential processes for various stakeholders.
 
-![](/2024-08-22-2-service-blueprinting/image5.png)
+![Screenshot of the initial draft of the service blueprint, which we reviewed during the first blueprinting workshop. It shows Phases (Pre-Registration, Registration and Post-Registration) across the top, with Sub-phases, Main User Actions, Online and Offline  Interactions in 4 rows of sticky notes underneath. Down the left-hand side there are 5 groups of swimlanes: User Experience, Frontstage Touchpoints, Backstage Touchpoints, Internal Interactions and Other Considerations. Within each group of swimlanes there are several rows of differently coloured sticky notes, representing the actions of different stakeholders potentially involved in the service (e.g. Booking Platforms, Local Authorities), systems or considerations at each step in the service.](/2024-08-22-2-service-blueprinting/image5.png)
 
 ### Version 1
 
@@ -59,7 +59,7 @@ Throughout Sprint 2, we continued refining the service blueprint by:
 - Capturing questions and actions coming out of the first workshop, and assigning these to team members
 - Incorporating new insights from stakeholder interviews, including booking platforms, Visit England, the Scottish Government, and other government departments (OGDs). These insights covered areas such as awareness-raising, data usage, and potential challenges with compliance and registration validation.
 
-![](/2024-08-22-2-service-blueprinting/image1.png)
+![Screenshot of Version 2 of the service blueprint. It includes additions from the first blueprinting workshop, such as additional sub-phases, additional details for steps discussed in the workshop or from insights from various stakeholder interviews, and questions (in red text). It no longer includes the left-hand side groupings of swimlanes, but still has differently coloured swimlanes for different stakeholders’ actions, and Supporting Processes and Systems, Data, Metrics and Other Considerations in grey swimlanes below.](/2024-08-22-2-service-blueprinting/image1.png)
 
 During our 2nd Blueprinting Workshop, we reviewed Version 2 of the blueprint, concentrating mainly on the 'Registration' phase:
 
@@ -77,7 +77,7 @@ This shows at a very high level what the main user actions are across the servic
 
 As part of this overview of the service, we have kept the service owner and admin deliberately separate from the rest of the actors, in order to show the additional actions that whoever administers this scheme will need to be responsible for.
 
-![](/2024-08-22-2-service-blueprinting/image2.png)
+![Screenshot of the ‘1-minute’ version of the service blueprint. This shows a simplified version of the blueprint, with 7 Phases along the top row, and 7 coloured swimlanes below the phases. These swimlanes feature high-level actions (represented by small circles, joined by straight lines), for 7 different actors or stakeholders in the service: Service owner and administrator; Short-term owners and operators; DCMS; VisitEngland; Local authorities; Management companies; and Booking platforms. It does not include the Supporting Processes and Systems, Data, Metrics and Other Considerations swimlanes.](/2024-08-22-2-service-blueprinting/image2.png)
 
 ### Version 4
 
@@ -99,4 +99,4 @@ We also added insights from management companies, particularly on their involvem
 
 This latest version also includes additional considerations for subsequent rollouts, including plans for the beta phase.
 
-[![](/2024-08-22-2-service-blueprinting/image4.png)](https://lucid.app/lucidspark/8266d46f-db55-4cc7-9565-5fc2c4833384/view)
+[![Screenshot of Version 4.3 of the service blueprint. It reflects the ‘staggered’ approach, so no longer contains the ‘compliance’ sub-phase. It includes updated details across all swimlanes, reflecting discussions in the third service blueprinting workshop and subsequent conversations, and further insights from local authorities and management companies. It also includes additional considerations for subsequent rollouts.](/2024-08-22-2-service-blueprinting/image4.png)](https://lucid.app/lucidspark/8266d46f-db55-4cc7-9565-5fc2c4833384/view)
