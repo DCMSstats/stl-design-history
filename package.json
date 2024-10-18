@@ -18,13 +18,13 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@x-govuk/govuk-eleventy-plugin": "^6.4.1",
+    "@x-govuk/govuk-eleventy-plugin": "^6.6.1",
     "http-server": "^14.1.1",
     "rimraf": "^6.0.0",
     "sass": "^1.80.1"
   },
   "devDependencies": {
-    "standard": "^17.1.0",
+    "standard": "^17.1.2",
     "webshot-node": "^0.18.2"
   },
   "private": true,
