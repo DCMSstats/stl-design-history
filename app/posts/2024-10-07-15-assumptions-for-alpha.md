@@ -112,8 +112,6 @@ Below is a list of the assumptions which are currently detailed in this Design H
 
 * **Assumption 7:** We assume that operators with multiple STLs will be put off registering by having to separately register each of their properties
 
-* **Assumption 9:** We assume that the register will collect data from operators that is useful to LAs about STL premises in their local area
-
 * **Assumption 13:** We assume that prospective/new operators follow a similar process when finding out their STL responsibilities
 
 * **Assumption 16:** We assume that operators will understand the STL regulations they need to comply with as part of the scheme
@@ -121,8 +119,6 @@ Below is a list of the assumptions which are currently detailed in this Design H
 * **Assumption 21:** We assume that the needs of prospective/new STL operators are different to those of existing operators
 
 * (**Assumption 23:** We assume that we can share the data we collect in a way that reassures operators that it’s being shared safely \- ***subsequently de-prioritised, as insufficient resource to test during Alpha)***
-
-* **Assumption 26 *(added mid-way through Alpha)*:** We assume that the registration scheme will not put off so high a proportion of STL operators and management companies that it damages the STL sector
 
 ## Assumptions Log
 

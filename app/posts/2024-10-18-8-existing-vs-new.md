@@ -61,7 +61,7 @@ The findings for this testing are best shown in the personas that were created o
 * Anxious short-term let operator
 * Niche short-term let operator
 
-You can read more about these personas in our ‘[The users of this service](https://docs.google.com/document/d/1CJYGULXAljA9dOOT4AmpggRZEFGl9caN-mR5Lfvy96w/edit?tab=t.0#heading=h.u1ci7t8gibjv)’ page. Two of our personas relate to the operators experience, they are the ‘Experienced short-term let operator’ and the ‘Prospective short-term let operator’ personas. The table below documents the user needs of each of those two personas.
+You can read more about these personas in our ‘[The users of this service](/13-users-of-this-service/)’ page. Two of our personas relate to the operators experience, they are the ‘Experienced short-term let operator’ and the ‘Prospective short-term let operator’ personas. The table below documents the user needs of each of those two personas.
 
 | User need ‘topic’ | Experienced short-term let operator | Prospective short-term let operator |
 | :---- | :---- | :---- |
