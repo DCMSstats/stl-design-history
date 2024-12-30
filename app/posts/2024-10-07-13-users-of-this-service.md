@@ -98,7 +98,7 @@ Our stakeholder mapping, alongside defining [our assumptions for alpha](/15-assu
 * Booking platforms
 * Possible service owners
 
-The format of our engagement with these groups varied, and is detailed in [our research and testing methodology](#) page. Through testing with all of these groups we were able to confirm who the key user groups were for this service, and deepen our understanding of them by learning more about their needs, emotions, feelings and behaviours.
+The format of our engagement with these groups varied, and is detailed in [our research and testing methodology](/14-research-and-testing-methodology) page. Through testing with all of these groups we were able to confirm who the key user groups were for this service, and deepen our understanding of them by learning more about their needs, emotions, feelings and behaviours.
 
 ## What are the key user groups for this service?
 
@@ -124,7 +124,7 @@ The [Consultation on a registration scheme for short-term lets in England](https
 
 “Owner: The person or persons or legal entity or entities holding interests of record to a property or any portion of the property.”
 
-These  definitions have helped us frame our thinking during Alpha, especially when planning and conducting user research with this group. More detail about how we engaged with this group can be found in [our research and testing methodology](#) page. After conducting user research and testing sessions, we identified 5 different personas that make up the operator and owner user category. Whilst these personas share many needs, motivations, challenges, worries and opportunities we identified, we currently believe that each of these 5 personas are distinct enough in their own right to separate out in this way:
+These  definitions have helped us frame our thinking during Alpha, especially when planning and conducting user research with this group. More detail about how we engaged with this group can be found in [our research and testing methodology](/14-research-and-testing-methodology) page. After conducting user research and testing sessions, we identified 5 different personas that make up the operator and owner user category. Whilst these personas share many needs, motivations, challenges, worries and opportunities we identified, we currently believe that each of these 5 personas are distinct enough in their own right to separate out in this way:
 
 #### The Experienced Operator
 
@@ -288,7 +288,7 @@ The [Consultation on a registration scheme for short-term lets in England](https
 
 This definition has helped us frame our thinking during Alpha, especially when planning and conducting user research with this group.
 
-To help test some of our riskiest assumptions that related to management companies we invited around 50  to take part in a survey. More detail about the techniques that we used and how we engaged with this group can be found in [our research and testing methodology](https://docs.google.com/document/d/1CJYGULXAljA9dOOT4AmpggRZEFGl9caN-mR5Lfvy96w/edit#heading=h.2ykbwrh5sqb0) page. Our analysis of this survey shows that there are likely to be two similar but also distinct types of persona within this user group. Whilst many of the sentiments expressed by Management Companies are similar \- mainly that they have a desire to support their clients in being compliant, and also that they are in favour of more regulation in the sector. There are, in our opinion, some fundamental differences which necessitate two different personas. The main differences are in the role that management companies envisage themselves having in the scheme, and how ‘hands on’ they might be with regards to the registration process.
+To help test some of our riskiest assumptions that related to management companies we invited around 50  to take part in a survey. More detail about the techniques that we used and how we engaged with this group can be found in [our research and testing methodology](/14-research-and-testing-methodology) page. Our analysis of this survey shows that there are likely to be two similar but also distinct types of persona within this user group. Whilst many of the sentiments expressed by Management Companies are similar \- mainly that they have a desire to support their clients in being compliant, and also that they are in favour of more regulation in the sector. There are, in our opinion, some fundamental differences which necessitate two different personas. The main differences are in the role that management companies envisage themselves having in the scheme, and how ‘hands on’ they might be with regards to the registration process.
 
 #### The Supportive Management Company
 
