@@ -51,7 +51,7 @@ We worked with trade associations and membership groups and created a mechanism 
 
 #### Testing with ‘offline users’
 
-We attempted a range of routes to identify non-digital short-term let owners and operators in order to test the offline registration journey with them including the paper registration form. The approach taken and findings from these tests are included in section 17\. 
+We attempted a range of routes to identify non-digital short-term let owners and operators in order to test the offline registration journey with them including the paper registration form. The approach taken and findings from these tests are included in ['Testing the offline journey'](/17-testing-offline-journey). 
 
 ### Engagement
 

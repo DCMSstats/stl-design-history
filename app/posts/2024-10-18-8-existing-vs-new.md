@@ -2,6 +2,11 @@
 title: Do existing operators and new operators have different needs?
 date: 2024-10-18
 ---
+{% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
+
+{{ govukInsetText({
+  text: "Please note: the screenshots shown here document the evolution of the design and are not indicative of the final service."
+}) }}
 
 ## What we tried to achieve
 

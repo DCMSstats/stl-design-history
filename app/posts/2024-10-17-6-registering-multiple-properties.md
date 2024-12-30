@@ -2,6 +2,11 @@
 title: Will operators of multiple short-term lets be deterred by registering each property separately?
 date: 2024-10-17
 ---
+{% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
+
+{{ govukInsetText({
+  text: "Please note: the screenshots shown here document the evolution of the design and are not indicative of the final service."
+}) }}
 
 ## What we tried to achieve
 

@@ -2,7 +2,11 @@
 title: Will operators understand what they need to provide to be compliant?
 date: 2024-10-16
 ---
+{% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
 
+{{ govukInsetText({
+  text: "Please note: the screenshots shown here document the evolution of the design and are not indicative of the final service."
+}) }}
 ## What we tried to achieve
 
 We wanted to know more about short-term let owners and operators' understanding of the different things they might need to provide during the registration process in order to be compliant with the regulations included within the scope of the  scheme.
